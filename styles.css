@@ -8,5 +8,12 @@ hearder {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
+}
 
+section{
+    background-color: beige
+    padding : top 80px;
+    padding : botton;
+    display :flex;
+    justify-content: center;
 }
